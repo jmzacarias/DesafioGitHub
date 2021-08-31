@@ -11,10 +11,13 @@ img {
 
 H1{
     font-size: 30px;
-    color: chocolate;
+    color: rgb(85, 36, 1);
 }
 
 footer{
     font-size: smaller;
     color: brown;
+}
+body {
+    background-color: darksalmon;
 }
